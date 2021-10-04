@@ -1,0 +1,352 @@
+@import url('https://fonts.googleapis.com/css2?family=Birthstone&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+.first-container>.container-fluid>.row>.col-md-8>ul>li{
+    list-style: none;
+    display: inline;
+    padding-left: 10px;
+    font-size: 15px;
+    color: white;
+}
+.first-container>.container-fluid>.row>.col-md-8>ul>li:hover{
+    color: #f25246;
+}
+.first-container>.container-fluid>.row>.col-md-4>ul>li{
+    list-style: none;
+    display: inline;
+    padding-left: 10px;
+    padding: 18px;
+    font-size: 15px;
+    color: white;
+}
+#bg-color-first-ul>li:hover{
+    background-color: #fd0505;
+}
+
+
+
+.first-container>.container-fluid>.row{
+    
+    border-bottom: 1px solid white;
+}
+.first-img-cont>.container-fluid>.row>.col-md-9>ul>li{
+    font-family: bold;
+    list-style: none;
+    display: inline;
+    text-align: center;
+    top: 20px;
+    font-size: 12px;
+    margin: 10px;
+    position: relative;
+    right: 0px;
+    color: white;
+    
+}
+.first-img-cont>.container-fluid>.row>.col-md-9>ul>li:hover{
+    color: #f25246;
+}
+.first-container{
+   position: relative;
+   bottom: 700px;
+  
+}
+#slid-img{
+    height: 700px;
+}
+.fontcursive{
+    font-family: 'Birthstone', cursive;
+    color: #fff;
+    text-align: center;
+}
+.fontcur{
+    font-family: 'Birthstone', cursive;
+    color:#fd0505;
+    text-align: center;
+}
+.h2{
+    font-family: 'Staatliches', cursive;
+}
+.p:hover{
+    color: #fd0505;
+}
+.slide-bar{
+    border-bottom: 5px dashed black;
+}
+.story>h1:only-child{
+    color: #fd0505;
+}
+.sign{
+    text-align: center;
+}
+.responsive{
+    width: 100%;
+    height: auto;
+    
+}
+.story{
+    border-bottom: 5px dashed black;
+}
+.special{
+    font-family: 'Birthstone', cursive;
+    color: #fd0505;
+    text-align: center;
+}
+.background-img{
+    background-image: url(Footer_background.png);
+    width: 100%;
+    height: 800px;
+    z-index: -1;
+}
+
+.container>.container-fluid>.row>.col-md-9>.carousel>.carousel-inner>.carousel-item{
+    position: relative;
+    top: 50px;
+    width: 100%;
+   
+    
+}
+
+#red-pic{
+    width: 200px;
+    text-align: center;
+}
+#carouselExampleSlidesOnly{
+    position: relative;
+    top: 20px;
+}
+.parapara{
+    background-color: #fff;
+    position: relative;
+    bottom: 250%;
+    right: 100px;
+}
+
+.background-img{
+    border-bottom: 5px dashed black;
+}
+.todaymenu{
+    position: relative;
+    top: 50px;
+}
+#ourstory{
+    position: relative;
+    bottom: 80px;
+}
+#special-package{
+    position: relative;
+    top: 50px;
+}
+.todaymenu>.container>.container-fluid>.row>.col-md-4>ul>li{
+    list-style: none;
+    display: inline;
+    border: 1px solid black;
+}
+.todaymenu>.container>.container-fluid>.row>.col-md-4>ul>li:hover{
+    background-color: #fd0505;
+    border: 1px solid #fd0505;
+    color: #fff;
+}
+#menulist{
+    position: relative;
+    top: 50px;
+}
+.show-hide{
+    position: relative;
+    top: 150px;
+    border-bottom: 5px dashed black;
+    
+}
+#imgrad{
+    border-radius: 100%;
+    border: 10px inset lightsteelblue;
+}
+#price-color{
+    color: #fd0505;
+}
+.ratio-1x1{
+    position: relative;
+    text-align: center;
+}
+.bg-bk-table{
+    background-image: url(blog-1.jpg);
+    color: #fff;
+    width: 100%;
+    height: 400px;
+    border-bottom: 5px dashed black;
+    text-align: center;
+    
+}
+.hed{
+    background-color: rgba(50, 51, 49, .6);
+    height: 400px;
+    position: relative;
+    
+}
+.book-table{
+    position: relative;
+    top: 150px;
+    border-bottom: 5px dashed black;
+}
+.book-table>.bg-bk-table>.hed>h1{
+    position: relative;
+    top: 150px;
+}
+#booknow{
+    position: relative;
+    top: 150px;
+}
+.book-table>.bg-bk-table>.hed>h1:hover{
+    color: #fd0505;
+}
+.book-table>.bg-bk-table>.hed>.center:hover{
+  color: #fd0505;
+}
+.our-chefs{
+    position: relative;
+    top: 160px;
+    text-align: center;
+    width: 100%;
+    height: 500px;
+    border-bottom: 5px dashed black;
+    
+}
+.chefs-profile{
+    position: relative;
+    top: 30px;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.latestnews{
+    position: relative;
+    top: 160px;
+    background-image: url(promo_slide_3.jpg);
+    height: 650px;
+    
+}
+.latest-font{
+    background-color: rgba(0, 0, 0, 0.808);
+    height: 650px;
+}
+.rating{
+    position: relative;
+    top: 50px;
+    text-align: center;
+}
+.gallery-part{
+    position: relative;
+    top: 160px;
+    border-top: 5px dashed black;
+    height: 250px;
+    border-bottom: 5px dashed black;
+
+}
+.gallery-pic{
+    position: relative;
+    top: 40px;
+}
+.last-part{
+    background-image: url(Footer_background.png);
+    height: 650px;
+    position: relative;
+    top: 160px;
+}
+.last-contact{
+    position: relative;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.808);
+    height: 650px;
+    text-align: center;
+}
+.last-part>.last-contact>img{
+    position: relative;
+    top: 50px;
+}
+.todaymenu>.samplelight1>.samplelight2>.samplemenu>.container>.container-fluid>p{
+    text-align: center;
+    background-color: #fff !important;
+}
+.todaymenu>.samplelight1>.samplelight2>.samplemenu>.container>.container-fluid>p:hover{
+    color: #fd0505 !important;
+}
+
+.samplemenu{
+    position: relative;
+    top: 180px;
+    height: 400px;
+}
+.samplemenu>.container>.container-fluid>.row{
+   height: 410px;
+   
+}
+#multiCollapseExample1{
+    height: 410px;
+    background-color: #fff;
+    position: absolute;
+    left: 0px;
+}
+#multiCollapseExample2{
+    height: 410px;
+    background-color: #fff;
+    position: absolute;
+    left: 0px;
+}
+#multiCollapseExample3{
+    height: 410px;
+    background-color: #fff;
+    position: absolute;
+    left: 0px;
+}
+#multiCollapseExample4{
+    height: 410px;
+    background-color: #fff;
+    position: absolute;
+    left: 0px;
+}
+#multiCollapseExample5{
+    height: 410px;
+    background-color: #fff;
+    position: absolute;
+    left: 0px;
+}
+#multiCollapseExample6{
+    height: 410px;
+    background-color: #fff;
+    position: absolute;
+    left: 0px;
+}
+
+.samplelight1{
+    position: relative;
+    bottom: 130px;
+}
+.last-contact>.dawat-last{
+    text-align: center;
+    position: relative;
+    top: 100px;
+    
+}
+#colored{
+    color: red;
+}
+.last-part>.last-contact>.dawat-last>ul>li{
+    list-style: none;
+    display: inline;
+    padding: 10px;
+    position: relative;
+    top: 30px;
+}
+.last-part>.last-contact>.dawat-last>ul>li:hover{
+    color: #fd0505;
+}
+#left-side{
+    position: absolute;
+    left: 100px;
+    top: 550px;
+    
+}
+#right-side{
+    position: absolute;
+    right: 100px;
+    top: 550px;
+}
